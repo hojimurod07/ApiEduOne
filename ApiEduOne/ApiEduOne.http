@@ -1,0 +1,6 @@
+@ApiEduOne_HostAddress = http://localhost:5175
+
+GET {{ApiEduOne_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
